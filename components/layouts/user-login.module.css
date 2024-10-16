@@ -1,0 +1,21 @@
+.form{
+    margin-top: 240px ;
+   line-height: 45px;
+    text-align: center;
+       
+}
+
+.form input{
+padding: 5px;
+
+font-size: larger;
+}
+.form h1{
+    text-decoration: underline;
+}
+.form label{
+    font-size: larger;
+}
+.form button{
+    font-size: larger;
+}

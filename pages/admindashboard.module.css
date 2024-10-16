@@ -1,0 +1,20 @@
+
+.adminstyle p {
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+.adminstyle button{
+   /* margin-left: 100px; */
+   /* margin-top: 100px; */
+   font-size: larger;
+}
+.adminstyle th{
+    border: 1px solid;
+}
+
+.admintable{
+   line-height: 40px;
+   margin-left:650px ;
+}
